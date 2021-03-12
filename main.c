@@ -6,6 +6,6 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
 
-    getch();
+    getch(); //комент
     return 0;
 }
