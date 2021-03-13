@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
+    printf("And again!\n");
     getch();
     return 0;
 }
